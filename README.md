@@ -76,6 +76,9 @@ The following steps were performed in Excel:
 * **Profit by Booking Source (Column Chart)**
 * **Revenue by Country (Horizontal Bar Chart)**
 * **Total Revenue per Day (Area Chart)**
+  ## Dashboard
+  <img width="1283" height="535" alt="radisson_dashboard_image" src="https://github.com/user-attachments/assets/f453422e-e41e-4d43-85ca-223259ac6600" />
+
 
 ---
 

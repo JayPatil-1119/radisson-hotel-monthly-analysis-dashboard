@@ -1,5 +1,4 @@
 # radisson-hotel-monthly-analysis-dashboard
-# Radisson Hotel Monthly Analysis Dashboard
 
 ## 1. Problem Statement
 

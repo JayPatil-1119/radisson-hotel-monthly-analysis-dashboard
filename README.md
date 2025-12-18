@@ -30,6 +30,7 @@ The objective of this project is to develop an **interactive Excel dashboard** t
 ### Data Source
 
 * Excel-based hotel management dataset
+  <a href="https://github.com/JayPatil-1119/radisson-hotel-monthly-analysis-dashboard/blob/main/Hotel_Radisson_Management_Dashboard.xlsx">Hotel Radisson Dataset</a>
 
 ### Key Dimensions
 
